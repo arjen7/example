@@ -1,0 +1,15 @@
+/media/arjen/6E144B56144B2107/arjen c#/sort/obj/Debug/net6.0/sort.csproj.AssemblyReference.cache
+/media/arjen/6E144B56144B2107/arjen c#/sort/obj/Debug/net6.0/sort.GeneratedMSBuildEditorConfig.editorconfig
+/media/arjen/6E144B56144B2107/arjen c#/sort/obj/Debug/net6.0/sort.AssemblyInfoInputs.cache
+/media/arjen/6E144B56144B2107/arjen c#/sort/obj/Debug/net6.0/sort.AssemblyInfo.cs
+/media/arjen/6E144B56144B2107/arjen c#/sort/obj/Debug/net6.0/sort.csproj.CoreCompileInputs.cache
+/media/arjen/6E144B56144B2107/arjen c#/sort/bin/Debug/net6.0/sort
+/media/arjen/6E144B56144B2107/arjen c#/sort/bin/Debug/net6.0/sort.deps.json
+/media/arjen/6E144B56144B2107/arjen c#/sort/bin/Debug/net6.0/sort.runtimeconfig.json
+/media/arjen/6E144B56144B2107/arjen c#/sort/bin/Debug/net6.0/sort.dll
+/media/arjen/6E144B56144B2107/arjen c#/sort/bin/Debug/net6.0/sort.pdb
+/media/arjen/6E144B56144B2107/arjen c#/sort/obj/Debug/net6.0/sort.dll
+/media/arjen/6E144B56144B2107/arjen c#/sort/obj/Debug/net6.0/refint/sort.dll
+/media/arjen/6E144B56144B2107/arjen c#/sort/obj/Debug/net6.0/sort.pdb
+/media/arjen/6E144B56144B2107/arjen c#/sort/obj/Debug/net6.0/sort.genruntimeconfig.cache
+/media/arjen/6E144B56144B2107/arjen c#/sort/obj/Debug/net6.0/ref/sort.dll

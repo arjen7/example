@@ -1,0 +1,15 @@
+/media/arjen/6E144B56144B2107/arjen c#/project/obj/Debug/net6.0/project.csproj.AssemblyReference.cache
+/media/arjen/6E144B56144B2107/arjen c#/project/obj/Debug/net6.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/media/arjen/6E144B56144B2107/arjen c#/project/obj/Debug/net6.0/project.AssemblyInfoInputs.cache
+/media/arjen/6E144B56144B2107/arjen c#/project/obj/Debug/net6.0/project.AssemblyInfo.cs
+/media/arjen/6E144B56144B2107/arjen c#/project/obj/Debug/net6.0/project.csproj.CoreCompileInputs.cache
+/media/arjen/6E144B56144B2107/arjen c#/project/bin/Debug/net6.0/project
+/media/arjen/6E144B56144B2107/arjen c#/project/bin/Debug/net6.0/project.deps.json
+/media/arjen/6E144B56144B2107/arjen c#/project/bin/Debug/net6.0/project.runtimeconfig.json
+/media/arjen/6E144B56144B2107/arjen c#/project/bin/Debug/net6.0/project.dll
+/media/arjen/6E144B56144B2107/arjen c#/project/bin/Debug/net6.0/project.pdb
+/media/arjen/6E144B56144B2107/arjen c#/project/obj/Debug/net6.0/project.dll
+/media/arjen/6E144B56144B2107/arjen c#/project/obj/Debug/net6.0/refint/project.dll
+/media/arjen/6E144B56144B2107/arjen c#/project/obj/Debug/net6.0/project.pdb
+/media/arjen/6E144B56144B2107/arjen c#/project/obj/Debug/net6.0/project.genruntimeconfig.cache
+/media/arjen/6E144B56144B2107/arjen c#/project/obj/Debug/net6.0/ref/project.dll
